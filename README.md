@@ -12,7 +12,7 @@
  <a href="https://www.instagram.com/le.onardo_802/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://github.com/LeonQ01" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href = "https://br.pinterest.com/anonimo1pr2br/"><img src="https://img.shields.io/badge/-pinterest-%23E4405F?style=for-the-badge&logo=pinterest&logoColor=white" target="_red"></a>
-   <a href = "leonardo.queiroz.batista@escola.pr.gov.br"><img src="https://img.shields.io/badge/-gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_red"></a>
+   <a href = "https://outlook.live.com/mail/0/deeplink/compose?mailtouri=mailto%3Aleonardo.queiroz.batista%40escola.pr.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
    
@@ -23,11 +23,11 @@
 
 ⚡ Eu não sou progamador⚡
 
-   ⚡ Sou curioso. ⚡ 
+   ⚡ Sou curioso⚡ 
 
 ⚡ Gosto de jogos de terro/Suspense⚡
 
-⚡ Gosto de deseenhar⚡
+⚡ Gosto de desenhar⚡
 
  <td><img src="https://media1.tenor.com/m/oN1vfZdxuroAAAAd/snipermask.gif" align="center" src="Welcome.png" width="500"> </td>
 
