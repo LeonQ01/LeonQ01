@@ -29,9 +29,8 @@
 
 ⚡ Gosto de desenhar⚡
 
- <td><img src="https://media1.tenor.com/m/oN1vfZdxuroAAAAd/snipermask.gif" align="center" src="Welcome.png" width="500"> </td>
+ <td><img src="https://media1.tenor.com/m/GoXnaLujI14AAAAC/foxy-the-rock.gif" align="center" src="Welcome.png" width="600"> </td> <td><img src="https://media1.tenor.com/m/Et8ofT6Ng8AAAAAC/bruh-fnaf.gif" align="center" src="Welcome.png" width="400"> </td>
 
- 
   leonardo.queiroz.batista@escola.pr.gov.br
   
 
