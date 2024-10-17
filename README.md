@@ -7,4 +7,6 @@
 ### ⚡ Sou curioso. ⚡ 
 ### 
 
-leonardo.queiroz.batista
+leonardo.queiroz.batista@escola.pr.gov.br
+
+!{https://media1.tenor.com/m/oN1vfZdxuroAAAAd/snipermask.gif}
