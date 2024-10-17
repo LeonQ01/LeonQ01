@@ -1,7 +1,10 @@
- <img align="right" src="https://komarev.com/ghpvc/?username=LeonQ01&color=ff69b4"><br>   
-    <img align="center" src="Welcome.png" width="500">
- #       ✨ sobre mim ✨
+ <div align="center">  
+  <img align="right" src="https://komarev.com/ghpvc/?username=LeonQ01&color=ff69b4"><br>   
 
+ <td><img src="https://media1.tenor.com/m/JHPSRMwQkCAAAAAC/elmo-hell.gif" align="center"width="500"> </td>
+
+  
+# ✨sobre mim ✨
   ## ✨ Meu nome é Leonardo ✨
  Eu não sou progamador⚡
  
@@ -20,5 +23,6 @@
  
 leonardo.queiroz.batista@escola.pr.gov.br
 
-!https://media1.tenor.com/m/oN1vfZdxuroAAAAd/snipermask.gif
+https://media1.tenor.com/m/oN1vfZdxuroAAAAd/snipermask.gif
+ <td><img src="https://media1.tenor.com/m/oN1vfZdxuroAAAAd/snipermask.gif" align="center" src="Welcome.png" width="500"> </td>
 
