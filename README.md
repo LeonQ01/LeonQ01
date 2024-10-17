@@ -23,11 +23,11 @@
 
    ⚡ Sou curioso. ⚡ 
 
-⚡ gosto de jogos de terro/Suspense⚡
+⚡ Gosto de jogos de terro/Suspense⚡
 
-⚡eu gosto de deseenhar⚡
+⚡ Gosto de deseenhar⚡
 
  <td><img src="https://media1.tenor.com/m/oN1vfZdxuroAAAAd/snipermask.gif" align="center" src="Welcome.png" width="500"> </td>
 
  
-leonardo.queiroz.batista@escola.pr.gov.br
+###### leonardo.queiroz.batista@escola.pr.gov.br
