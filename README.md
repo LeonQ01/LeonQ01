@@ -37,7 +37,7 @@
 
 
 
- <td><img src="https://media1.tenor.com/m/GoXnaLujI14AAAAC/foxy-the-rock.gif" align="center" src="Welcome.png" width="600"> </td> <td><img src="https://media1.tenor.com/m/Et8ofT6Ng8AAAAAC/bruh-fnaf.gif" align="center" src="Welcome.png" width="400"> </td>
+ <td><img src="https://media1.tenor.com/m/GoXnaLujI14AAAAC/foxy-the-rock.gif" align="center" src="Welcome.png" width="300"> </td> <td><img src="https://media1.tenor.com/m/Et8ofT6Ng8AAAAAC/bruh-fnaf.gif" align="center" src="Welcome.png" width="200"> </td>
 
    ⚡meu gmail  [leonardo.queiroz.batista@escola.pr.gov.br](https://mail.google.com/mail/u/1/#inbox?compose=new)⚡
   
